@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="styles/style.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Goldman&display=swap" rel="stylesheet">
+        <meta charset="utf-8">
+        <title>My test page</title>
+    </head>
+    <body>
+        <h1>Detroit Techno Soul</h1>
+        <img src="images/detroit-house.jpg" alt="Ruined Detroit House">
+        <p>These are the streets that birthed the mystery of Detroit Techno.</p>
+        
+        <p>No-one will ever be able to explain how it really came to pass.</p>
+        
+        <p>Key Detroit Techno artists included:</p>
+        
+        <ul>
+            <li>Derrick May</li>
+            <li>Blake Baxter</li>
+            <li>Juan Atkins</li>
+            <li>Kevin Saunderson</li>
+            <li>Eddie Folwkes</li>
+            <li>Underground Resistance</li>
+        </ul>
+        
+        <p>and many more!</p>
+        
+        <p>Read <a href="https://www.redbull.com/gb-en/quickfire-history-of-detroit-techno">more information about Detroit Techno</a>.</p>
+        
+        <script src="scripts/main.js"></script>
+        
+    </body>
+</html>
